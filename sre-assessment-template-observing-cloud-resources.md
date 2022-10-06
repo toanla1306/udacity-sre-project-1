@@ -72,8 +72,8 @@
 |---|
 |5a. Given the above graph, which instance had the increase in traffic, and approximately how many bytes did it receive (feel free to round)?|
 |---|
-|Reply|
+|10.0.0.68:9100 had the increase in traffice, the latest in graph that it receive about 4900 bytes|
 |---|
 |5b. Which team members on the SRE team would be interested in this graph and why?|
 |---|
-|Reply|
+|SysAdmin would be intersted in this graph, because in this role, they will need to monitoring |
