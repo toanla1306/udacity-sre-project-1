@@ -5,6 +5,7 @@
 ||
 |![default ns](/image_screenshot/node_exporter_available.png)|
 ||
+|||
 |Host Metric (CPU, RAM, Disk,  Network)|Dashboard|
 |||
 |CPU Node|![default ns](/image_screenshot/cpu-node.png)|
@@ -14,3 +15,4 @@
 |Disk I/O|![default ns](/image_screenshot/disk-io.png)|
 |||
 |Network Received in Bytes|![default ns](/image_screenshot/network-received-in-bytes.png)|
+|||
