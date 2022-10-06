@@ -5,7 +5,7 @@
 |---|
 |![default ns](/image_screenshot/node_exporter_available.png)|
 |---|---|
-|Host Metric\(CPU, RAM, Disk,  Network)|Dashboard|
+|Host Metric (CPU, RAM, Disk,  Network)|Dashboard|
 |---|---|
 |CPU Node|![default ns](/image_screenshot/cpu-node.png)|
 |---|---|
