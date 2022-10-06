@@ -22,15 +22,15 @@
 |---|
 |1. The development team wants to release an emergency hotfix to production. Identify two roles of the SRE team who would be involved in this and why.|
 |---|
-|DevOps and SysAdmin. Because DevOps Engineer will manage release and SysAdmin Engineer will monitoring the new hotfix will run well on production|
+|Release Engineer and Monitoring Engineer. Because Release Engineer will manage release and Monitoring Engineer will monitoring the new hotfix will run well on production|
 |---|
 |2. The development team is in the early stages of planning to build a new product. Identify two roles of the SRE team that should be invited to the meeting and why.|
 |---|
-|DevOps and SysAdmin. Because SysAdmin have a knowledge about the architecture so they will provide solution faster and DevOps will know infrastructure that will map with the new feature and release more faster|
+|System Architect and Infrastructure Engineer. Because System architect have a knowledge about the architecture so they will provide solution faster and Infrastructure will know infrastructure that will map with the new feature|
 |---|
 |3. The emergency hotfix from question 1 was applied and is causing major issues in production. Which SRE role would primarily be involved in mitigating these issues?|
 |---|
-|DevOps Engineer because the reponsibility of them is manage release, so they will know about the issue will be come from exactly role|
+|Release Engineer will be better, because the reponsibility of them is manage release, so they will know about the issue will be come from exactly role|
 
 
 ### Team Formation and Workflow Identification
@@ -76,4 +76,4 @@
 |---|
 |5b. Which team members on the SRE team would be interested in this graph and why?|
 |---|
-|SysAdmin would be intersted in this graph, because in this role, they will need to monitoring |
+|Monitoring Engineer  would be intersted in this graph, because in this role, they will need to monitoring |
